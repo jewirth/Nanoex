@@ -1,4 +1,4 @@
 Nanoex
 ======
 
-This is the Nanoex project.
+This is the Nanoex project
