@@ -1,7 +1,7 @@
 // main
 int main(int argc, char **argv)
 {
-	// todo: ...
+	// todo: nothing
 	// :-)
 
 	return 0;
