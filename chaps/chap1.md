@@ -5,7 +5,7 @@ This is `[link](#bar)`: [link](#bar)
 
 This is `[link](#bar2)`: [link](#bar2)
 
-This is `[link](#thisIsBar)`: [link](#thisIsbar)
+This is `[link](#thisIsBar)`: [link](#thisIsBar)
 
 ## external links
 
