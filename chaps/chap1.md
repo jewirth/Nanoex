@@ -13,7 +13,7 @@ This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#two
 
 This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)
 
-This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twothisIsbar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twothisIsbar)
+This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)
 
 ##foo
 
