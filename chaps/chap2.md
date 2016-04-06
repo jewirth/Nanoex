@@ -43,9 +43,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 1. Tick
 2. Trick
 	* A
+		- sub-A
 	* B
-	* C
-		- sub-C
+	- C
+		* sub-C
 3. Track
 	1. First
 	2. Second
