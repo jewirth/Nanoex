@@ -1,10 +1,19 @@
 #chap 1
 
-This is `[link](#bar)`: [link](#bar)
+## internal links
+This is `[link](#twobar)`: [link](#twobar)
 
-This is `[link](#bar2)`: [link](#bar2)
+This is `[link](#twobar2)`: [link](#twobar2)
 
-This is `[link](#thisIsBar)`: [link](#thisIsBar)
+This is `[link](#thisIsTwobar)`: [link](#thisIsTwobar)
+
+## external links
+
+This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar)
+
+This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)
+
+This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)
 
 ##foo
 
