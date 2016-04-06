@@ -1,8 +1,11 @@
 #chap 1
+===
 
-As you can see in section [link](#thisIsBar)...
+This is `[link](#bar2)`: [link](#bar)
 
-As you can see in section [link](#bar2)...
+This is `[link](#bar2)`: [link](#bar2)
+
+This is `[link](#thisIsBar)`: [link](#thisIsBar)
 
 ##foo
 
