@@ -22,9 +22,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![This figure 1](chap2_chartBlaBla.png)
 Figure 1: blablabla...
 
-a
-aa
-aaa
+a 
+aa  
+aaa   
 aaaa
 
 aaaa
