@@ -7,4 +7,4 @@ This my experimental GitHub repository.
 Nothing but offering a place for testing.
 
 ## How to use it?
-You're not really reading this, do you? Everything has be said!
+You're not really reading this, do you? Everything has been said!
