@@ -1,7 +1,6 @@
 #chap 1
-===
 
-This is `[link](#bar2)`: [link](#bar)
+This is `[link](#bar)`: [link](#bar)
 
 This is `[link](#bar2)`: [link](#bar2)
 
