@@ -9,11 +9,11 @@ This is `[link](#thisIsBar)`: [link](#thisIsBar)
 
 ## external links
 
-This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar)
+This is `[link](chap2.md#twobar)`: [link](chap2.md#twobar)
 
-This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#twobar2)
+This is `[link](chap2.md#twobar2)`: [link](chap2.md#twobar2)
 
-This is `[link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)`: [link](https://github.com/jewirth/Nanoex/blob/master/chaps/chap2.md#thisIsTwobar)
+This is `[link](chap2.md#thisIsTwobar)`: [link](chap2.md#thisIsTwobar)
 
 ##foo
 
